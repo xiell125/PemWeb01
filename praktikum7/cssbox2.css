@@ -1,0 +1,47 @@
+.header{
+    width: 1470px;
+    height: 120px;
+    background-color: lightgreen;
+    margin: 20px;
+    border: 2px solid black;
+}
+
+.nav1{
+    margin: 20px;
+    width: 20%;
+    height: 250px;
+    background-color: yellow;
+    border: 2px solid black;
+}
+    
+.nav2{
+    margin: 20px;
+    width: 20%;
+    height: 250px;
+    background-color: yellow;
+    border: 2px solid black;
+}
+
+.article{
+    margin: 20px 20px 20px 0;
+    width: 1115px;
+    height: 250px;
+    background-color: red;
+    border: 2px solid black;
+    position: absolute;
+    top: 145px;
+    left: 25%;
+}
+
+.footer{
+    margin: 20px 20px 20px 0;
+    width: 1115px;
+    height: 250px;
+    background-color: lightskyblue;
+    border: 2px solid black;
+    position: absolute;
+    top: 420px;
+    left: 25%;
+}
+
+
